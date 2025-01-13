@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1>
-<h3 align="center">A full stack web developer from Algeria</h3>
+<h3 align="center">A front end web developer from Algeria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
