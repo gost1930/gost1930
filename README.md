@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1>
 # 💫 About Me:
-🔭 I’m currently working on e-commerce  platform<br>🌱 I’m currently learning appolographQl<br>💬 Ask me about react js<br>
+🔭 I’m currently working on e-commerce  platform<br>🌱 I’m currently learning apolographQl<br>💬 Ask me about react js<br>
 
 
 ## 🌐 Socials:
