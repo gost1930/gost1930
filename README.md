@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1>
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1><br>
 🔭 I’m currently working on iso Voyage <br>🌱 I’m currently learning apolloGraphQl<br>💬 Ask me about react js<br>
 
 
