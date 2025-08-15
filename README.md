@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1><br>
-🔭 I’m currently working on iso Voyage <br>🌱 I’m currently learning express js + prisma<br>💬 Ask me about react js<br>
+🔭 I’m currently working on viliare <br>🌱 I’m currently learning react js advanced + express js + prisma<br><br>
 
 
 ## 🌐 Socials:
