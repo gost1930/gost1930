@@ -1,4 +1,3 @@
-![Work Coding GIF by Scaler](https://github.com/user-attachments/assets/9cea4474-2176-4971-bdd9-a3f02b1e21d4)
 <h1 align="center">Hi 👋, I'm Hadbi Mohamed</h1><br>
 🔭 I’m currently working on viliare <br>🌱 I’m currently learning react js advanced + express js + prisma<br><br>
 
